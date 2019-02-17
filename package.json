@@ -26,5 +26,8 @@
   },
   "devDependencies": {
     "babel": "^5.1.10"
+  },
+  "dependencies": {
+    "create-react-class": "^15.6.3"
   }
 }
